@@ -1,4 +1,4 @@
-# 👥 CROWED-COUNTER
+# 👥 CROWD-COUNTER
 
 A simple and efficient web app to count people entering and exiting a room, with a focus on tracking the highest crowd count in real-time.
 
