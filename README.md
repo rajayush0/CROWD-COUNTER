@@ -1,19 +1,35 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 👥 CROWED-COUNTER
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A simple and efficient web app to count people entering and exiting a room, with a focus on tracking the highest crowd count in real-time.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🚀 Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- Real-time **Entry** and **Exit** counting
+- Tracks and displays the **Top Crowd Count** (highest number recorded)
+- Prevents count from going below zero
+- Reset functionality to clear the current count and highest count
+- Clean, tech-style UI with red and black accent colors
 
-Happy Coding!
+## 🛠 Built With
+
+- HTML
+- CSS
+- JavaScript
+
+## 📋 Usage
+
+1. Click **Entry** button to increment the count when someone enters.
+2. Click **Exit** button to decrement the count when someone leaves (count won't go below zero).
+3. Click **Save** button to update the top crowd count if current count is higher.
+4. Click **Reset** button to clear current count and top crowd count.
+
+## 🔗 Live Demo
+
+View the live app here:  
+[https://effortless-peony-d99ef3.netlify.app/)
+
+
+
+## 📂 How to Run Locally
+
+
