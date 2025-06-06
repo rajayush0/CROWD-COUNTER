@@ -26,7 +26,7 @@ A simple and efficient web app to count people entering and exiting a room, with
 ## 🔗 Live Demo
 
 View the live app here:  
-[https://effortless-peony-d99ef3.netlify.app/)
+[https://crowed-counter.netlify.app/)
 
 
 
